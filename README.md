@@ -14,3 +14,7 @@ import crypt
 # ksnctf 32
 import pycurl
 
+# ksnctf 35
+import sqlite3
+import pandas as pd
+
